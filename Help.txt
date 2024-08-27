@@ -3,7 +3,7 @@ Tên: Pong
 
 Hướng dẫn:
 1. Sử dụng drive:
-link: https://drive.google.com/drive/folders/1yfoGJe6mOzA7axNlg6UMm3X2ZSZk9OaE?usp=sharing
+link: https://drive.google.com/drive/folders/1mAu8ae5U_gktDzSIA5e5EIDNX3c37biu?usp=sharing
 Drive bao gồm:
 - De bai 
 - Game
